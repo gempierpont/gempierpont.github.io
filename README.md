@@ -1,2 +1,3 @@
 # gempierpont.github.io
-Hi! My name is Gemma Pierpont, and I am a student at Lehigh University. I am currently in my Data Journalism class!
+## Hi! My name is Gemma Pierpont
+### I am currently a senior at Lehigh University
