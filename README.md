@@ -12,3 +12,5 @@ I am currently a reporter at [The Brown and White](https://thebrownandwhite.com/
 Here is my photography [portfolio](https://gempierpont.wixsite.com/gpierpontphotography)!
 
 A little bit about me: I am from Boston, MA, and have a sister who also went to Lehigh but now lives in New York City. I previously went to Fordham University but decided to transfer after my sophomore year there. I went abroad to Barcelona, Spain last semester and loved it. Going abroad was an amazing experience, and I am so thankful that I was able to do it!
+
+![demographic](https://github.com/gempierpont/gempierpont.github.io/blob/main/Business%20Sales%20(1).png?raw=true)
