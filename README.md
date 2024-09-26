@@ -1,6 +1,7 @@
 # gempierpont.github.io
 ## Hi! My name is Gemma Pierpont
 
+![lehigh photo](https://github.com/gempierpont/gempierpont.github.io/blob/main/About-History-Hero.jpg?raw=true)
 
 ### I am a Journalism and Marketing student at [Lehigh University](https://www2.lehigh.edu/)
 
