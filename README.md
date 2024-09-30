@@ -18,6 +18,6 @@ Here is an infographic I made in class about Lehigh's fall 2024 demographics:
 ![demographic](https://github.com/gempierpont/gempierpont.github.io/blob/main/Business%20Sales%20(1).png?raw=true)
 
 Here is an infographic I created for homework:
-![not attending college]()
+![not attending college](https://github.com/gempierpont/gempierpont.github.io/blob/main/College%20Dropout%20(1).jpg?raw=true)
 
 When looking for data that I found interesting, I found [this article](https://www.pewresearch.org/short-reads/2021/11/08/whats-behind-the-growing-gap-between-men-and-women-in-college-completion/) published on the Pew Research Center's website and written by Kim Parker. I am about to graduate college, so I thought that looking into reasons not to attend college would be thought-provoking for me. This article first discussed the gap between men and women and their college completion. The data found that women are more likely to be enrolled in a four-year college than men. The second part of this article discussed the major reasons for not attending college, from both men and women ages 25 and older. It found that the main reason was that they couldn't afford to attend a four-year degree. 44% of women and 39% of men say they cannot afford college. 
