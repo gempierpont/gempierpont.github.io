@@ -30,3 +30,5 @@ When looking for data that I found interesting, I found [this article](https://w
 
 # Timeline of SKIMS: "How Kim Kardashian's SKIMS Went From a Passion Project to a $4 Billion Company"
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1efq27hLG2gKeAAg4_veQgo1ro8H3Ez7JxDdFG_kK5oU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+information from [this website](https://www.complex.com/style/a/mike-destefano/kim-kardashian-skims-timeline)
+
