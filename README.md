@@ -32,6 +32,6 @@ When looking for data that I found interesting, I found [this article](https://w
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1efq27hLG2gKeAAg4_veQgo1ro8H3Ez7JxDdFG_kK5oU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 information from [this website](https://www.complex.com/style/a/mike-destefano/kim-kardashian-skims-timeline)
 
-Here is my bar chart I created in Chartbuilder during our class practice: 
+# Here is my bar chart I created in Chartbuilder during our class practice: 
 ![bar chart lehigh student population](https://github.com/gempierpont/gempierpont.github.io/blob/main/2024_Lehigh_Student_Profile_Percentage_chartbuilder.png?raw=true)
 
