@@ -32,6 +32,13 @@ When looking for data that I found interesting, I found [this article](https://w
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1efq27hLG2gKeAAg4_veQgo1ro8H3Ez7JxDdFG_kK5oU&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 information from [this website](https://www.complex.com/style/a/mike-destefano/kim-kardashian-skims-timeline)
 
-# Here is my bar chart I created in Chartbuilder during our class practice: 
+## Here is my bar chart I created in Chartbuilder during our class practice: 
 ![bar chart lehigh student population](https://github.com/gempierpont/gempierpont.github.io/blob/main/2024_Lehigh_Student_Profile_Percentage_chartbuilder.png?raw=true)
 
+
+## I created a bar chart about the different percentages of Greek Life that different colleges have. 
+
+![greek life](https://github.com/gempierpont/gempierpont.github.io/blob/main/College_Greek_Life_Percentages_Fraternity_Sorority_chartbuilder.png?raw=true)
+
+The data I chose was given to me from the "College Transitions" website, but the data was from the College Data Set forms and informational websites. I thought this data set was interesting because as someone who is not in Greek Life, it feels so big here, when in reality, sororities take up 26% of the female population and fraternities take up 18% of the male population. I was curious about different colleges because I wondered if it was the same case. I have a friend who goes to Wake Forest University, and her sorority is her entire experience at college. I can see how that happens because sororities take up 64% of the female population there. There are more girls in sororities than girls who are not. 
+Data from [this website](https://www.collegetransitions.com/dataverse/greek-life)
