@@ -50,3 +50,4 @@ Data from [this website](https://www.collegetransitions.com/dataverse/greek-life
 ## In class, I created a map of the 2019 World's Top Cycling Cities, from Wired. 
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1z-8ATAkXG_KquuHur-IHNdCPKuBNiX0&ehbc=2E312F" width="640" height="480"></iframe>
+
