@@ -47,11 +47,11 @@ The data I chose was given to me from the "College Transitions" website, but the
 Data from [this website](https://www.collegetransitions.com/dataverse/greek-life)
 
 
-## In class, I created a map of the 2019 World's Top Cycling Cities, from Wired. 
+## In class, I created a map of the 2019 World's Top Cycling Cities, from Wired. (practice)
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1z-8ATAkXG_KquuHur-IHNdCPKuBNiX0&ehbc=2E312F" width="640" height="480"></iframe>
 
-## here is the map I created on the best cities in the world in 2024: 
+## Here is the map I created on the best cities in the world in 2024, from Condé Nast:
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1XqWptc_bb4es-6XqNXGO_7xlCaDZPlQ&ehbc=2E312F" width="640" height="480"></iframe>
 
