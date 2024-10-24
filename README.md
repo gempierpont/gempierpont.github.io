@@ -51,3 +51,9 @@ Data from [this website](https://www.collegetransitions.com/dataverse/greek-life
 
 <iframe src="https://www.google.com/maps/d/embed?mid=1z-8ATAkXG_KquuHur-IHNdCPKuBNiX0&ehbc=2E312F" width="640" height="480"></iframe>
 
+## here is the map I created on the best cities in the world in 2024: 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1XqWptc_bb4es-6XqNXGO_7xlCaDZPlQ&ehbc=2E312F" width="640" height="480"></iframe>
+
+I chose this as my topic because I love traveling and want to know where else I can go that is popular. I have traveled to some of the cities on this list and cannot wait to visit the others! I thought it was interesting that Las Vegas was on this list, as I do not think of it as a spectacular city that everyone should go to. To me, it is a very strange city that revolves around gambling, which I do not like. It was interesting that New York City was lower than Las Vegas, NYC is such a unique place! I think my favorite city on this list that I've been to is Marrakech, Morocco because it isn't like any other place I have been to. It is so rich in color and culture and was truly an amazing place. I would love to go to Sydney, Australia now because of this list - I have never been to Australia and this list made me want to more. 
+
