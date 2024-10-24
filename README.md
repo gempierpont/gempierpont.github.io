@@ -45,3 +45,8 @@ I chose to cover the quick and immense success that SKIMS has had in a relativel
 
 The data I chose was given to me from the "College Transitions" website, but the data was from the College Data Set forms and informational websites. I thought this data set was interesting because as someone who is not in Greek Life, it feels so big here, when in reality, sororities take up 26% of the female population and fraternities take up 18% of the male population. I was curious about different colleges because I wondered if it was the same case. I have a friend who goes to Wake Forest University, and her sorority is her entire experience at college. I can see how that happens because sororities take up 64% of the female population there. There are more girls in sororities than girls who are not. For this assignment, I decided to choose the chart grid option rather than the XY chart because I had two factors (fraternity and sorority). I randomly chose 28 colleges from the list that answered "yes" to having both fraternities and sororities. Also, putting the colleges on the bottom created a mess of words that were not legible. 
 Data from [this website](https://www.collegetransitions.com/dataverse/greek-life)
+
+
+## In class, I created a map of the 2019 World's Top Cycling Cities, from Wired. 
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1z-8ATAkXG_KquuHur-IHNdCPKuBNiX0&ehbc=2E312F" width="640" height="480"></iframe>
